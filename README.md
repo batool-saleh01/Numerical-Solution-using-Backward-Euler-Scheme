@@ -28,7 +28,12 @@ Two plots will be generated:
 
 ```Plot 1``` Numerical solution for ```u``` over time.
 
+![image](https://github.com/batool-saleh01/Numerical-Solution-using-Backward-Euler-Scheme/assets/155902900/bcf17f39-5c56-434f-9ab8-2aaa3eb649f6)
+
+
 ```Plot 2``` Numerical solution for ```v``` over time.
+![image](https://github.com/batool-saleh01/Numerical-Solution-using-Backward-Euler-Scheme/assets/155902900/5b5753c4-4bad-42fa-b156-85fc774e18c7)
+
 
 ## Customization ##
 - You can modify the parameters such as ```delta_t```, ```w``` and initial values to observe different behaviors.
