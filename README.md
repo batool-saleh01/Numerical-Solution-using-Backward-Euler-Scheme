@@ -32,6 +32,7 @@ Two plots will be generated:
 
 
 ```Plot 2``` Numerical solution for ```v``` over time.
+
 ![image](https://github.com/batool-saleh01/Numerical-Solution-using-Backward-Euler-Scheme/assets/155902900/5b5753c4-4bad-42fa-b156-85fc774e18c7)
 
 
